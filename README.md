@@ -41,7 +41,7 @@ Here's the gui of Scientific:
 
 ## Code Files
 
-- **[MyForm.h](here)**: Contains the declaration of the `MyForm` class and the design of the calculator interface. This file includes the initialization of components, button definitions, and layout settings for both standard and scientific modes.
+- **[MyForm.h](MyForm.h)**: Contains the declaration of the `MyForm` class and the design of the calculator interface. This file includes the initialization of components, button definitions, and layout settings for both standard and scientific modes.
 
 - **[MyForm.cpp](here)**: Implements the functionality of the `MyForm` class. This file includes the main entry point for the application and the event handlers for button clicks, enabling the calculator's functionality.
 
